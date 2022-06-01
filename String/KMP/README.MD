@@ -12,5 +12,5 @@ O(N + M)
 * 매칭이 이루어지지 않았을때 되돌아갈 위치를 저장하는 사전작업을 수행한다.
 
 ## 기억에 남는 문제
-백준 4354 (https://www.acmicpc.net/problem/4354) : Failure Function을 이용하는 문제
+백준 4354 (https://www.acmicpc.net/problem/4354) : Failure Function을 이용하는 문제  
 백준 10266 (https://www.acmicpc.net/problem/10266)
