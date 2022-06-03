@@ -1,5 +1,3 @@
-#include<vector>
-
 #define MAX 100000
 #define LOG 18
 
