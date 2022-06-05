@@ -13,4 +13,5 @@ O(N + M)
 
 ## 기억에 남는 문제
 백준 4354 (https://www.acmicpc.net/problem/4354) : Failure Function을 이용하는 문제  
+백준 1701(https://www.acmicpc.net/problem/1701) : Failure Function을 이용하여 LRS(Longest Repeated Substring)를 구하는 문제
 백준 10266 (https://www.acmicpc.net/problem/10266)
