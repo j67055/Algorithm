@@ -16,3 +16,4 @@
 
 ## 기억에 남는 문제
 백준 17435 (https://www.acmicpc.net/problem/17435)
+백준 14942 (https://www.acmicpc.net/problem/14942)
