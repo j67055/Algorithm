@@ -1,5 +1,4 @@
 #include<vector>
-#include<stack>
 
 #define MAX 10000
 
