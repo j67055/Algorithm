@@ -29,16 +29,15 @@ public:
 	void unionSet(int i, int j)
 	{
 		if (isSameSet(i, j)) return;
-
+		
 		int x = findSet(i), y = findSet(j);
-
-		if (rank[x] >= rank[y])
+		if (rank[x] < rank[y])
+			p[x] = y;
+		else
 		{
 			p[y] = x;
 			if (rank[x] == rank[y])
 				++rank[x];
 		}
-		else
-			p[x] = y;
 	}
 };
