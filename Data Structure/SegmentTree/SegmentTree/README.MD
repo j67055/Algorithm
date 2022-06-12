@@ -15,5 +15,5 @@
 * DP최적화 기법에 사용되기도 함.
 
 ## 기억에 남는 문제
-백준 1725 (https://www.acmicpc.net/problem/1725) : 잘 알려진 히스토그램 문제  
+백준 1725 (https://www.acmicpc.net/problem/1725) : 히스토그램 문제  
 백준 15678 (https://www.acmicpc.net/problem/15678) : 세그먼트 트리를 이용한 DP최적화 문제
