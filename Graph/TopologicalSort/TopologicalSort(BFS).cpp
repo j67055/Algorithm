@@ -8,7 +8,7 @@ using namespace std;
 int V, indegree[MAX];
 vector<int> adjList[MAX], ts;
 
-void bfs(int s)
+void bfs()
 {
 	queue<int> q;
 	for (int u = 0; u < V; ++u)
