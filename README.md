@@ -1,7 +1,7 @@
 # Algorithm
 알고리즘 정리
 
-## 목차
+> ## 목차
 1. 자료 구조
 	1. [유니온-파인드](./Data%20Structure/UnionFind)
 	2. [세그먼트 트리](.Data%20Structure/SegmentTree)
