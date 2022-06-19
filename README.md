@@ -27,7 +27,7 @@
 	  	1. [DFS](./Graph/BipartiteMatching/DFS)  
 		  2. [호프크로프트-카프](./Graph/BipartiteMatching/Hopcroft-Karp)
 	13. [네트워크 유량](./Graph/NetworkFlow)
-	  	1. [에드몬드-카프](./Graph/NetworkFlow/Edmond-Karf)  
+	  	1. [에드몬드-카프](./Graph/NetworkFlow/Edmonds-Karf)  
 		  2. [디닉](./Graph/NetworkFlow/Dinic)
 	14. 오일러 경로
 3. 수학  
