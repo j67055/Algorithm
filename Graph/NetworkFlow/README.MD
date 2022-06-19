@@ -5,12 +5,13 @@
 
 ## 특징
 * 유량이 흐를 수 있는 증가경로를 반복적으로 찾아 지워주면서 최대유량을 구한다.
+* 증가경로를 제거하는 경우 순방향 간선의 용량을 f만큼 감소시키게 되는데 이때 역방향 간선의 용량을 f만큼 증가시킨다.
 
 ## 활용 문제
 * 정점 용량 문제: 가중치가 정점에도 있는 문제. 가중치가 있는 정점을 둘로 쪼개어 푼다.
 * 최소 컷 문제: 최대유량과 최소 컷이 같음을 이용한다.
 
 ## 기억에 남는 문제
-백준 2316 (https://www.acmicpc.net/problem/2316)
-백준 2365 (https://www.acmicpc.net/problem/2365)
-백준 11495 (https://www.acmicpc.net/problem/11495)
+백준 2316 (https://www.acmicpc.net/problem/2316)  
+백준 2365 (https://www.acmicpc.net/problem/2365)  
+백준 11495 (https://www.acmicpc.net/problem/11495)  
