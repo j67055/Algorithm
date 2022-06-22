@@ -18,7 +18,7 @@
 	  	1. [크루스칼](./Graph/MST/Kruskal)  
 	  	2. [프림](./Graph/MST/Prim)
 	6. [다익스트라](./Graph/Dijkstra)
-	7. [벨만-포드](./Graph/Bellam-Ford)
+	7. [벨만-포드](./Graph/Bellman-Ford)
 	8. [플로이드 워셜](./Graph/FloydWarshall)
 	9. 그래프의 간선 분류
 	10. 단절점과 단절선
