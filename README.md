@@ -40,4 +40,5 @@
 	1. [트라이](./String/Trie) 
 	2. [KMP](./String/KMP)
 6. 기하
-7. 기타
+	1. [선분 교차](./Geometry/Line%20Segment%20Intersection)
+8. 기타
