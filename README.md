@@ -29,7 +29,7 @@
 	13. [네트워크 유량](./Graph/NetworkFlow)
 	  	1. [에드몬드-카프](./Graph/NetworkFlow/Edmonds-Karf)  
 		  2. [디닉](./Graph/NetworkFlow/Dinic)
-	14. 오일러 경로
+	14. [오일러 그래프](./Graph/EulerGraph)
 3. 수학  
 	1. [최대공약수와 최소공배수](./Math/GCD%2C%20LCM)  
 	2. [소수](./Math/Prime%20Number)  
