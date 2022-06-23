@@ -7,7 +7,7 @@ using namespace std;
 int N, adjMatrix[MAX][MAX], work[MAX];
 vector<int> path;
 
-//¿ÀÀÏ·¯ °æ·Î/»çÀÌÅ¬ÀÌ Á¸ÀçÇÒ °æ¿ì¿¡¸¸ »ç¿ë°¡´É.
+//ì˜¤ì¼ëŸ¬ ê²½ë¡œ, ì‚¬ì´í´ì´ ì¡´ì¬í•  ê²½ìš°ì—ë§Œ ì‚¬ìš©ê°€ëŠ¥.
 void eulerCycle(int u)
 {
 	for (int& v = work[u]; v < N; ++v)
