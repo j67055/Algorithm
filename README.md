@@ -21,7 +21,7 @@
 	7. [벨만-포드](./Graph/Bellman-Ford)
 	8. [플로이드 워셜](./Graph/FloydWarshall)
 	9. 그래프의 간선 분류
-	10. 단절점과 단절선
+	10. [단절점과 단절선](./Graph/Articulation%20Point%20And%20Bridge)
 	11. [강한 연결 요소](./Graph/SCC)
 	12. [이분 매칭](./Graph/BipartiteMatching)
 	  	1. [DFS](./Graph/BipartiteMatching/DFS)  
