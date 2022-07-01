@@ -39,7 +39,7 @@
 5. 문자열  
 	1. [트라이](./String/Trie) 
 	2. [KMP](./String/KMP)
-	3. 매내처
+	3. [매내처](./String/Manacher)
 6. 기하  
 	1. 다각형 둘레와 면적
 	2. [선분 교차 판별](./Geometry/Line%20Segment%20Intersection)
