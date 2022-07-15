@@ -4,7 +4,7 @@
 > ## 목차
 1. 자료 구조
 	1. [유니온-파인드](./Data%20Structure/UnionFind)
-	2. [세그먼트 트리](.Data%20Structure/SegmentTree)
+	2. [세그먼트 트리](./Data%20Structure/SegmentTree)
 		1. [세그먼트 트리](./Data%20Structure/SegmentTree/SegmentTree)
 		2. [느리게 갱신되는 세그먼트 트리](./Data%20Structure/SegmentTree/SegmentTree(Lazy%20Propagation))
 	3. [펜윅 트리](./Data%20Structure/FenwickTree)
