@@ -1,7 +1,7 @@
 #include<vector>
 
 #define MAX 100010
-#define LOG 20
+#define LOG 18
 
 using namespace std;
 
