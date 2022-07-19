@@ -44,5 +44,5 @@
 	1. 다각형 둘레와 면적
 	2. [선분 교차 판별](./Geometry/Line%20Segment%20Intersection)
 8. 기타
-	1. 최소 공통 조상
+	1. [최소 공통 조상](./Etc/LCA)
 	2. 카데인
