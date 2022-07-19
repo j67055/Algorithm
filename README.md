@@ -30,6 +30,7 @@
 	  	1. [에드몬드-카프](./Graph/NetworkFlow/Edmonds-Karf)  
 		  2. [디닉](./Graph/NetworkFlow/Dinic)
 	14. [오일러 그래프](./Graph/EulerGraph)
+	15. 센트로이드 분할
 3. 수학  
 	1. [최대공약수와 최소공배수](./Math/GCD%2C%20LCM)  
 	2. [소수](./Math/Prime%20Number)  
@@ -40,6 +41,7 @@
 	1. [트라이](./String/Trie) 
 	2. [KMP](./String/KMP)
 	3. [매내처](./String/Manacher)
+	4. 회문 트리
 6. 기하  
 	1. 다각형 둘레와 면적
 	2. [선분 교차 판별](./Geometry/Line%20Segment%20Intersection)
